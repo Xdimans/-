@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\打代码玩\周赛\源.cpp(20,18): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+E:\打代码玩\周赛\源.cpp(22): warning C4715: “digui”: 不是所有的控件路径都返回值
+  周赛.vcxproj -> E:\打代码玩\周赛\Debug\周赛.exe
